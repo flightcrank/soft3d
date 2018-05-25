@@ -8,6 +8,8 @@ so far it has the following features
 * render triangles
 * backface culling
 * vector transformations
+* load 3d models stored as .obj files
+* read color data stored in .mtl files
 
 Compilation instructions on a Linux system are as follows..
 
